@@ -1,0 +1,58 @@
+
+body{
+    background-color: #EDECE9;
+    font-family: arial;
+    font-size: 12px;
+}
+header img{
+    width: 100%;
+}
+nav ul{
+    margin-left: -35px;
+    margin-top: 0px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    color:#ef6728;
+    
+}
+nav ul li a{
+    font-weight: bold;
+    color:#ef6728;
+    }
+  
+     p , li {
+        color: #755041;
+    }
+
+    h1 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        background-color: #755041;
+        color: #e2d5d0;
+    }
+ 
+    .conoce {
+        font-weight: bold;
+        font-size: 1.5rem;
+    }
+    .interes a{
+        color:#ef6728;
+    }
+    .negrita {
+        font-weight: bold;
+    }
+    .azul {
+        color: rgb(49, 203, 237);
+    }
+    .rojo {
+        color: red;
+    }
+
+    .amarillo {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 16px;
+        background-color: #755041;
+        color: rgb(216, 191, 136);
+    }
